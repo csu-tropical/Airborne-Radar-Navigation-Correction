@@ -2,7 +2,7 @@
 
 ### 1. Install the navigation correction packpage 
 
-* Install the package following the [instructions.](https://github.com/tingyucha/Airborne-Radar-Navigation-Correction/blob/main/README.md) 
+* Install the package following the [instructions.](https://github.com/csu-tropical/Airborne-Radar-Navigation-Correction/blob/main/README.md) 
 * Install soloii
 
 ### 2. Select a flight leg and set up the directories
