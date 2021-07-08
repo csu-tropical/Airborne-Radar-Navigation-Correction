@@ -178,7 +178,7 @@ RadxConvert -f swp* -outdir ../cfradial
 If the navigation correction is not retained in the converted cfradial files, you may want to try the command below to keep the existing navigation correction:
 
 ```terminal
-•	RadxConvert -apply_georefs -primary_axis y_prime -radar_num 2 -f ./swp*
+RadxConvert -apply_georefs -primary_axis y_prime -radar_num 2 -f ./swp*
 ```
 
 Once you’ve run the navigation correction again, you should see the correction values decrease relative to the first navigation correction that you did.
